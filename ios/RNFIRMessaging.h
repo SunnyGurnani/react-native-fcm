@@ -1,7 +1,7 @@
 
 #import <UIKit/UIKit.h>
 
-@import FirebaseAnalytics;
+#import <FirebaseAnalytics/FirebaseAnalytics.h>
 @import FirebaseInstanceID;
 @import FirebaseMessaging;
 
